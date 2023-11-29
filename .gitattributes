@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF(Line Feed) normalization.
+# This helps prevent unnecessary line-ending-related merge conflicts when collaborating 
+# on projects with contributors using different operating systems.
 * text=auto
