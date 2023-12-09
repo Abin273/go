@@ -2,7 +2,6 @@
 
 ```
 go mod init module_name 
-
 ```
 
 
@@ -10,7 +9,6 @@ go mod init module_name
 
 ```
 go run file_name.go
-
 ```
 
 ### to take build
@@ -19,7 +17,6 @@ go run file_name.go
 
 ```
 go build file_name.go
-
 ```
 
 -This will create an executable file named file_name (eg:- if file_name was hello.go then  "hello") (or hello.exe on Windows), and you can run it directly using,
@@ -28,12 +25,10 @@ go build file_name.go
 
 ```
 ./hello 
-
 ```
 
  #### On On Windows systems
 
 ```
 hello 
-
 ```
